@@ -1,0 +1,9 @@
+.navbar{
+  flex: auto;
+  justify-items: space-between ;
+  align-items: center;
+}
+.logoimg{
+  height: 10vh;
+  width: 5%;
+}
